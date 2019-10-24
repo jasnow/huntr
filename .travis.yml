@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 2.4.9
-  - 2.7.0-preview1
+  - 2.7.0-preview2
 before_install: gem install bundler -v 1.17.2
 
 cache: bundler
